@@ -184,20 +184,22 @@ I have successfully added Microsoft Clarity and set it up on your website. This 
        Insight: Product images and descriptions are the primary engagement points, but only 5% of users click on reviews or ratings.
     
        Data: Session recordings show users engaging with the product image gallery, then quickly exiting without interacting with reviews.
+   
     
       Recommendation: Make product reviews more visible and accessible. Add "Frequently Bought Together" 
       or similar cross-sell recommendations to boost user interaction and confidence.
 
-6. Checkout Page Check:
+7. Checkout Page Check:
    
        Insight: High drop-off rate (55%) during the checkout process, especially at the payment stage.
     
        Data: Session recordings show users hesitating when entering payment details or when unexpected shipping costs are revealed.
+   
     
        Recommendation: Simplify the checkout flow, highlight cost transparency earlier
        (shipping fees, taxes), and introduce trust signals like secure checkout badges.
 
-7. Thank You Page Check:
+9. Thank You Page Check:
    
        Insight: Low engagement on the Thank You page with minimal clicks to share on social or review the product.
     

@@ -36,7 +36,7 @@ I’ll implement targeted optimization strategies to enhance conversions and ove
     2. Set up automated queries to track product views, add-to-cart events, revenue, and user demographics to gather insights across different user segments.
 
     
-## Phase 2: Data Analysis & Insights:
+## Phase 2: Data Analysis & Insights: SQL Code Link Detail- https://github.com/mdrakibhasanrc/GA4-BigQuery-SQL-Data-Analysis-Report
 
 Through GA4 and BigQuery, I’ll conduct a deep dive into user behavior, tracking key events like page views, add-to-carts, and purchases 
 to identify conversion bottlenecks. This analysis will reveal actionable insights, such as high abandonment rates and low conversion stages, 

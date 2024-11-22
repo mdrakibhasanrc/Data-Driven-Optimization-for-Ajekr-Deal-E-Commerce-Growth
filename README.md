@@ -186,8 +186,9 @@ I have successfully added Microsoft Clarity and set it up on your website. This 
        Data: Session recordings show users engaging with the product image gallery, then quickly exiting without interacting with reviews.
    
     
-      Recommendation: Make product reviews more visible and accessible. Add "Frequently Bought Together" 
-      or similar cross-sell recommendations to boost user interaction and confidence.
+       Recommendation: Make product reviews more visible and accessible. Add "Frequently Bought Together" 
+       or similar cross-sell recommendations to boost user interaction and confidence.
+   
 
 7. Checkout Page Check:
    

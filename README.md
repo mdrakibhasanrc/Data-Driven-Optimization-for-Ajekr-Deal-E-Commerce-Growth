@@ -93,7 +93,7 @@ and implementing data-driven solutions to improve the user experience and boost 
 
 
 
-     #### Device Performance Analysis:
+#### Device Performance Analysis:
     
             Mobile:
 
@@ -125,7 +125,7 @@ and implementing data-driven solutions to improve the user experience and boost 
             
             Total Purchases: 111
 
-   #### Key Findings:
+ #### Key Findings:
 
             Mobile vs. Desktop:
             

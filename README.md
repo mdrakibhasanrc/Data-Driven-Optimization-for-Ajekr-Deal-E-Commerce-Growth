@@ -54,7 +54,7 @@ and implementing data-driven solutions to improve the user experience and boost 
 
 
 
-   #### Device Performance Analysis:
+   ####  Device Category Performance: Identify Conversion Rate Differences by Device:
     
             Mobile:
              
@@ -93,7 +93,7 @@ and implementing data-driven solutions to improve the user experience and boost 
 
 
 
-#### Device Performance Analysis:
+#### Cart Abandonment rate and checkout abandonment rate and Average Order value by Device Category:
     
             Mobile:
 
@@ -143,8 +143,34 @@ and implementing data-driven solutions to improve the user experience and boost 
             
             Desktop users have much better conversion (3,226 vs. 111) and a higher AOV ($82.18 vs. $67.86), 
             with tablet users showing the highest abandonment rates across both cart and checkout stages.
+            
 
 
+### Phase 4: User Behavior Data Analysis Using Microsoft Clarity
+Using Microsoft Clarity, I conducted detailed session analysis, heatmap analysis, and identified friction points:
+
+          Homepage Check: Users mostly engaged with the top banner and product listings but dropped off quickly (45% bounce rate).
+          
+          Recommendation: Improve the first section of the homepage to include more engaging content and better calls-to-action (CTAs).
+                
+         Category Page Check: Users interacted minimally with filters and sorting options, leading to frustration on larger product lists.
+         
+         Recommendation: Make filters and sorting options more visible and user-friendly. Consider adding quick product previews or 
+         better category navigation to encourage deeper exploration and prevent frustration.
+            
+         Product Page Check: Users interacted with product images but ignored reviews.
+         
+         Recommendation: Highlight product reviews more prominently to build trust and increase engagement.
+                
+        Checkout Page Check: High drop-off rates during the payment stage.
+        Recommendation: Simplify the checkout process, introduce trust signals like secure checkout badges, and highlight shipping costs earlier.
+                
+        Thank You Page Check: Low engagement on the Thank You page with minimal interaction on social sharing or review prompts.
+        
+        Recommendation: Add incentives for sharing purchases on social media (e.g., discount codes for referrals) or
+        encourage users to leave reviews. Offer product recommendations or prompt users to sign up for a loyalty program to keep them engaged post-purchase.
+            
+            
 
 
 

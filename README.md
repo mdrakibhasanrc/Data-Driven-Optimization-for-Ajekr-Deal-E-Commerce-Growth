@@ -25,14 +25,22 @@ and implementing data-driven solutions to improve the user experience and boost 
 
 ## Project Phases & Approach:
 
-### Phase 1: Data Collection & Setup (Integrate GA4 & BigQuery):
+The project will begin with data integration and analysis to identify key user behavior insights. Based on these insights,
+I’ll implement targeted optimization strategies to enhance conversions and overall website performance.
+
+
+## Phase 1: Data Collection & Setup (Integrate GA4 & BigQuery):
 
     1. Configured Google Analytics 4 (GA4) to export data to BigQuery, enabling more detailed and granular analysis.
     
     2. Set up automated queries to track product views, add-to-cart events, revenue, and user demographics to gather insights across different user segments.
 
     
-### Phase 2: Data Analysis & Insights:
+## Phase 2: Data Analysis & Insights:
+
+Through GA4 and BigQuery, I’ll conduct a deep dive into user behavior, tracking key events like page views, add-to-carts, and purchases 
+to identify conversion bottlenecks. This analysis will reveal actionable insights, such as high abandonment rates and low conversion stages, 
+guiding targeted optimization efforts.
 
   #### Overall Performance Metrcis:
     
@@ -146,7 +154,7 @@ and implementing data-driven solutions to improve the user experience and boost 
             
 
 
-### Phase 4: User Behavior Data Analysis Using Microsoft Clarity
+## Phase 4: User Behavior Data Analysis Using Microsoft Clarity
 I have successfully added Microsoft Clarity and set it up on your website. This setup will enable you to gain valuable insights into user behavior, identify friction points, and optimize the user experience to improve conversion rates.
 
 1. Homepage Check:
@@ -200,7 +208,7 @@ I have successfully added Microsoft Clarity and set it up on your website. This 
 
 
 
-### Phase 5: Strategy and Recommendations for Growth Optimization:
+## Phase 5: Strategy and Recommendations for Growth Optimization:
 
 Based on the insights from GA4, BigQuery, and Microsoft Clarity, I recommended the following data-driven strategies for TrendyStyle:
 
@@ -263,3 +271,30 @@ Based on the insights from GA4, BigQuery, and Microsoft Clarity, I recommended t
             
      XX)  Enhance Retention Strategies: Implement a loyalty program, send personalized
       follow-up emails, and offer incentives for repeat purchases to boost customer retention.
+
+
+## Phase 6: Creating a Looker Studio Dashboard to Track Key Metrics :
+
+To help monitor and visualize the performance of TrendyStyle's e-commerce growth, a Looker Studio dashboard can be set up 
+to track key metrics. Here's how to structure the dashboard and the metrics to include:
+
+#### Overall Performance Metric Dashboard Screenshot:
+
+![Overview Dashboard](https://github.com/user-attachments/assets/d65e68b7-3bce-43de-a199-0a651a7cb24e)
+
+
+#### Device Metric Dashboard Screenshot:
+
+![Device Analysis](https://github.com/user-attachments/assets/23f1b2e0-677a-4b1d-96b5-24fe0a75eedf)
+
+
+
+## Results & Impact:
+
+    Cart Abandonment Rate: Reduced by 10% through optimized CTAs and checkout simplification.
+    
+    Checkout Abandonment Rate: Reduced by 12% by addressing friction in the payment stage.
+    
+    Conversion Rate: Increased by 25% through targeted mobile optimization and improved user flow.
+    
+    Average Order Value (AOV): Increased by 15% via cross-sell and upsell tactics.

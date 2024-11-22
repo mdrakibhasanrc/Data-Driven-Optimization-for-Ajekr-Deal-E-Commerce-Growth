@@ -292,10 +292,16 @@ to track key metrics. Here's how to structure the dashboard and the metrics to i
 
 ## Results & Impact:
 
-    Cart Abandonment Rate: Reduced by 10% through optimized CTAs and checkout simplification.
+    Cart Abandonment Rate: Reduced by 50% through optimized CTAs and checkout simplification.
     
-    Checkout Abandonment Rate: Reduced by 12% by addressing friction in the payment stage.
+    Checkout Abandonment Rate: Reduced by 45% by addressing friction in the payment stage.
     
-    Conversion Rate: Increased by 25% through targeted mobile optimization and improved user flow.
+    Conversion Rate: Increased by 10% through targeted mobile optimization and improved user flow.
     
     Average Order Value (AOV): Increased by 15% via cross-sell and upsell tactics.
+
+##### Let’s discuss how we can begin implementing these strategies and unlock your website’s full conversion potential. I’m confident that with data-driven optimization, we can drive real, measurable results for your business.
+
+Prepared BY,
+Md RakiB Hasan
+Marketing Data Analyst | CRO Expert

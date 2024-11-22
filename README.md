@@ -54,6 +54,44 @@ and implementing data-driven solutions to improve the user experience and boost 
 
 
 
+   #### Device Performance Analysis:
+    
+            Mobile:
+             
+            Conversion Rate: 1.7%
+            
+            Revenue: $146,768
+            
+            Total Purchases: 9,200 items
+            
+            Desktop:
+            
+            Conversion Rate: 1.6%
+            
+            Revenue: $208,815
+            
+            Total Purchases: 13,182 items
+            
+            Tablet:
+            
+            Conversion Rate: 0.5%
+
+            Revenue: $6,582
+            
+            Total Purchases: 111 items
+
+  #### Key Findings:
+
+    1.Mobile Users: Higher conversion rate (1.7%), but lower revenue ($146,768) and fewer purchases (9,200 items) 
+    compared to desktop. Opportunity to increase average order value (AOV) on mobile.
+
+    2. Desktop Users: Higher revenue ($208,815) and total purchases (13,182 items), with a slightly lower conversion rate (1.6%). 
+    Desktop drives larger purchases, suggesting potential for further conversion optimization.
+
+    3. Tablet Users: Significantly lower conversion rate (0.5%) and revenue ($6,582), with only 111 purchases. 
+     Clear need for optimization to boost engagement and sales.
+
+
 
 
     

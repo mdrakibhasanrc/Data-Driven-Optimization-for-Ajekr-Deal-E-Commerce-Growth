@@ -158,6 +158,7 @@ guiding targeted optimization efforts.
 I have successfully added Microsoft Clarity and set it up on your website. This setup will enable you to gain valuable insights into user behavior, identify friction points, and optimize the user experience to improve conversion rates.
 
 1. Homepage Check:
+
        Insight: Users engage most with the top banner and featured products,
        but many drop off quickly (45% bounce rate).
     
@@ -168,7 +169,7 @@ I have successfully added Microsoft Clarity and set it up on your website. This 
        to reduce bounce rate. Consider adding trust signals (reviews, secure payment icons) higher up on the page.
 
 
-2. Category Page Check:
+4. Category Page Check:
    
         Insight: Users are not engaging with filters and sorting options (only 12% interaction).
     
@@ -178,7 +179,7 @@ I have successfully added Microsoft Clarity and set it up on your website. This 
         better category navigation to encourage deeper exploration.
    
    
-4. Product Page Check:
+5. Product Page Check:
    
        Insight: Product images and descriptions are the primary engagement points, but only 5% of users click on reviews or ratings.
     
@@ -187,7 +188,7 @@ I have successfully added Microsoft Clarity and set it up on your website. This 
       Recommendation: Make product reviews more visible and accessible. Add "Frequently Bought Together" 
       or similar cross-sell recommendations to boost user interaction and confidence.
 
-5. Checkout Page Check:
+6. Checkout Page Check:
    
        Insight: High drop-off rate (55%) during the checkout process, especially at the payment stage.
     
@@ -196,7 +197,7 @@ I have successfully added Microsoft Clarity and set it up on your website. This 
        Recommendation: Simplify the checkout flow, highlight cost transparency earlier
        (shipping fees, taxes), and introduce trust signals like secure checkout badges.
 
-6. Thank You Page Check:
+7. Thank You Page Check:
    
        Insight: Low engagement on the Thank You page with minimal clicks to share on social or review the product.
     

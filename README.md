@@ -42,7 +42,7 @@ Through GA4 and BigQuery, I’ll conduct a deep dive into user behavior, trackin
 to identify conversion bottlenecks. This analysis will reveal actionable insights, such as high abandonment rates and low conversion stages, 
 guiding targeted optimization efforts.
 
-  #### Overall Performance Metrcis:
+  #### ✅ Overall Performance Metrcis:
     
     1. Cart Abandonment Rate: 90.28%
     
@@ -62,7 +62,7 @@ guiding targeted optimization efforts.
 
 
 
-   ####  Device Category Performance: Identify Conversion Rate Differences by Device:
+   #### ✅ Device Category Performance: Identify Conversion Rate Differences by Device:
     
             Mobile:
              
@@ -101,7 +101,7 @@ guiding targeted optimization efforts.
 
 
 
-#### Cart Abandonment rate and checkout abandonment rate and Average Order value by Device Category:
+#### ✅ Cart Abandonment rate and checkout abandonment rate and Average Order value by Device Category:
     
             Mobile:
 

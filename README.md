@@ -34,7 +34,7 @@ and implementing data-driven solutions to improve the user experience and boost 
     
 ### Phase 2: Data Analysis & Insights:
 
-  #### Analyzed user behavior data through BigQuery to identify key drop-off points in the funnel. The following insights were uncovered:
+  #### Overall Performance Metrcis:
     
     1. Cart Abandonment Rate: 90.28%
     
@@ -90,6 +90,61 @@ and implementing data-driven solutions to improve the user experience and boost 
 
     3. Tablet Users: Significantly lower conversion rate (0.5%) and revenue ($6,582), with only 111 purchases. 
      Clear need for optimization to boost engagement and sales.
+
+
+
+     #### Device Performance Analysis:
+    
+            Mobile:
+
+            Cart Abandonment Rate: 89.6%
+            
+            Checkout Abandonment Rate: 85.6%
+            
+            Average Order Value (AOV): $79.29
+            
+            Total Purchases: 2,355
+            
+            Desktop:
+            
+            Cart Abandonment Rate: 90.52%
+            
+            Checkout Abandonment Rate: 85.52%
+            
+            Average Order Value (AOV): $82.18
+            
+            Total Purchases: 3,226
+            
+            Tablet:
+            
+            Cart Abandonment Rate: 91.2%
+            
+            Checkout Abandonment Rate: 85.92%
+            
+            Average Order Value (AOV): $67.86
+            
+            Total Purchases: 111
+
+   #### Key Findings:
+
+            Mobile vs. Desktop:
+            
+            Both devices have similar abandonment rates, but desktop users convert better, with more total purchases (3,226 vs. 2,355).
+            
+            Desktop users also have a higher AOV ($82.18 vs. $79.29).
+            
+            Mobile vs. Tablet:
+            
+            Mobile users have lower abandonment rates and significantly higher purchases (2,355 vs. 111).
+            
+            Tablet users have the highest abandonment rates and the lowest AOV ($67.86).
+            
+            Desktop vs. Tablet:
+            
+            Desktop users have much better conversion (3,226 vs. 111) and a higher AOV ($82.18 vs. $67.86), 
+            with tablet users showing the highest abandonment rates across both cart and checkout stages.
+
+
 
 
 

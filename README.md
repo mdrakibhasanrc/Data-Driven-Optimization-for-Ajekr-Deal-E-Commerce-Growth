@@ -153,6 +153,23 @@ guiding targeted optimization efforts.
             
             Desktop users have much better conversion (3,226 vs. 111) and a higher AOV ($82.18 vs. $67.86), 
             with tablet users showing the highest abandonment rates across both cart and checkout stages.
+
+
+
+
+#### ✅ New users & returning Users by Total Purchase and Conversion Rate:
+
+    
+![Screenshot_1](https://github.com/user-attachments/assets/52790060-c46b-45b1-83a7-df33e5a25513)
+
+            New Users: 257,314 users, 3,511 made a purchase, with a 1.36% conversion rate.
+            Returning Users: 51,395 users, 3,447 made a purchase, with a 6.71% conversion 
+            rate.
+            
+ #### Key Findings:
+
+            Despite having many more new users, returning users have a much higher conversion rate (6.71% vs. 1.36%).
+            This suggests that retaining customers or improving engagement for new users could boost purchases.
             
 
 

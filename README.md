@@ -45,6 +45,9 @@ to identify conversion bottlenecks. This analysis will reveal actionable insight
 guiding targeted optimization efforts.
 
   #### ✅ Overall Performance Metrcis:
+
+
+![Screenshot_4](https://github.com/user-attachments/assets/e804542e-f42f-4473-8c48-886fae5e3dcb)
     
     1. Cart Abandonment Rate: 90.28%
     
@@ -65,6 +68,8 @@ guiding targeted optimization efforts.
 
 
    #### ✅ Device Category Performance: Identify Conversion Rate Differences by Device:
+
+   ![Screenshot_1](https://github.com/user-attachments/assets/c9e0f9cf-5fc3-4184-954a-ff59d326bae9)
     
             Mobile:
              
@@ -104,6 +109,11 @@ guiding targeted optimization efforts.
 
 
 #### ✅ Cart Abandonment rate and checkout abandonment rate and Average Order value by Device Category:
+
+![Screenshot_2](https://github.com/user-attachments/assets/1458ec8b-457c-4b56-93d8-63148a785916)
+
+
+![Screenshot_3](https://github.com/user-attachments/assets/faa7da23-adce-4d18-9862-3d76dd9f74e4)
     
             Mobile:
 

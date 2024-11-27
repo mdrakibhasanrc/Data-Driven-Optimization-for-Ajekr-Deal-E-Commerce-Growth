@@ -183,7 +183,7 @@ guiding targeted optimization efforts.
 
             
             
-#### ✅ New users & returning Users by Total Purchase and Conversion Rate:
+#### ✅ Traffic Channel Analysis:
 
     
 ![Screenshot_1](https://github.com/user-attachments/assets/98d79b1f-d5c1-47a4-892e-fb255e2231f8)

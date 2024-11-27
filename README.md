@@ -180,10 +180,46 @@ guiding targeted optimization efforts.
 
             Despite having many more new users, returning users have a much higher conversion rate (6.71% vs. 1.36%).
             This suggests that retaining customers or improving engagement for new users could boost purchases.
+
             
+            
+#### ✅ New users & returning Users by Total Purchase and Conversion Rate:
+
+    
+![Screenshot_1](https://github.com/user-attachments/assets/98d79b1f-d5c1-47a4-892e-fb255e2231f8)
+
+![Screenshot_2](https://github.com/user-attachments/assets/615121d1-48f0-41c7-b415-e3a2a5c54f6b)
 
 
+            Top Performers:
+
+            Organic traffic leads in users, revenue ($104,007), and purchases (1,572).
+            
+            Referral traffic has the highest AOV ($66.39) with strong revenue ($83,521).
+            
+            Underperformers:
+            
+            CPC traffic shows the lowest engagement, conversions (1.09%), and revenue ($9,056).
+            
+            High Abandonment Rates:
+            
+            Cart abandonment is 86–92% across channels; checkout abandonment averages ~85–86%.
+            
+            Low Conversion Rates:
+            
+            Most channels convert at 1–2%, except (data deleted) traffic (6.07%).
+                        
+ #### Key Findings & Recommendetion:
+
+            Optimize CPC campaigns for better targeting and conversion.
+            
+            Address high cart and checkout abandonment with improved UX and pricing clarity.
+           
+            Invest in organic and referral channels to scale revenue and leverage their strong performance.
+
+           
 ## Phase 4: User Behavior Data Analysis Using Microsoft Clarity
+
 I have successfully added Microsoft Clarity and set it up on your website. This setup will enable you to gain valuable insights into user behavior, identify friction points, and optimize the user experience to improve conversion rates.
 
 1. Homepage Check:
@@ -335,5 +371,7 @@ to track key metrics. Here's how to structure the dashboard and the metrics to i
 ##### Let’s discuss how we can begin implementing these strategies and unlock your website’s full conversion potential. I’m confident that with data-driven optimization, we can drive real, measurable results for your business.
 
 Prepared BY,
+
 Md RakiB Hasan
+
 Marketing Data Analyst | CRO Expert

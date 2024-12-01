@@ -1,8 +1,7 @@
-## Data-Driven Optimization for Ajker Deal E-Commerce Growth
+## Data-Driven Optimization for increase conversion rate optimization
 
 ## Project Overview:
 
-### Company: Ajker Deal
 ### Industry: E-commerce (Fashion & Apparel)
 
 ## Project Focus:
@@ -19,8 +18,6 @@ and implementing data-driven solutions to improve the user experience and boost 
     3. Looker Studio: For creating visual reports and real-time dashboards to track KPIs.
     
     4. Microsoft Clarity: For heatmaps and session recordings to understand user behavior and friction points.
-
-    5. Python: 
 
 
 ## Project Phases & Approach:
@@ -218,9 +215,36 @@ guiding targeted optimization efforts.
             Invest in organic and referral channels to scale revenue and leverage their strong performance.
 
            
-## Phase 4: User Behavior Data Analysis Using Microsoft Clarity
+## Phase 4: Looker Studio Dashboard for E-commerce Performance Analysis:
 
-I have successfully added Microsoft Clarity and set it up on your website. This setup will enable you to gain valuable insights into user behavior, identify friction points, and optimize the user experience to improve conversion rates.
+     Dashboard Links: https://lookerstudio.google.com/reporting/bddf0090-1935-4e3b-8c33-1aa36b2e4d37/page/p_b31g9dy1ld
+
+This dashboard provides a comprehensive overview of key performance indicators (KPIs) and detailed insights into e-commerce performance. It tracks critical metrics across multiple 
+ sections, including:
+        
+        KPI Overview: Displays the overall health of the e-commerce business with essential
+                      metrics such as revenue, conversion rates, and user engagement.
+        
+        Device Analysis: Breaks down user activity by device type, providing insights into how 
+                       different devices impact conversion rates and sales performance.
+         
+        Traffic Analysis: Examines website traffic sources, helping identify high-performing
+                        channels and opportunities for optimization.
+        
+        Event Tracking: Monitors key events, such as product views and add-to-cart actions,
+                        to better understand user behavior and conversion drivers.
+        
+        Demographics: Offers insights into user demographics, helping tailor marketing 
+                       strategies to specific customer segments.
+        
+        E-commerce Overview: Tracks core e-commerce metrics, including transactions, 
+                              average order value, and product performance.
+        
+        Funnel Analysis: Analyzes user behavior through the conversion funnel, identifying 
+                        drop-off points and areas for improvement in the checkout process.
+
+This dashboard serves as a vital tool for monitoring, analyzing, and optimizing the conversion rate, 
+offering actionable insights for driving business growth.
 
 1. Homepage Check:
 

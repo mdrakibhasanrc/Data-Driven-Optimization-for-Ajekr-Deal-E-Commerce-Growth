@@ -1,4 +1,4 @@
-## Data-Driven Optimization for increase conversion rate optimization
+## Data-Driven E-commerce Conversion Optimization: Fashion & Apparel Analytics
 
 ## Project Overview:
 
@@ -6,7 +6,7 @@
 
 ## Project Focus:
 
-The goal of this project was to enhance Ajker Deal website conversion rate by analyzing customer behavior, identifying drop-off points, 
+The goal of this project was to enhance ecommerce website conversion rate by analyzing customer behavior, identifying drop-off points, 
 and implementing data-driven solutions to improve the user experience and boost sales.
 
 ## Tools & Technologies Used:
@@ -217,7 +217,7 @@ guiding targeted optimization efforts.
            
 ## Phase 4: Looker Studio Dashboard for E-commerce Performance Analysis:
 
-     Dashboard Links: https://lookerstudio.google.com/reporting/bddf0090-1935-4e3b-8c33-1aa36b2e4d37/page/p_b31g9dy1ld
+Dashboard Links: https://lookerstudio.google.com/reporting/bddf0090-1935-4e3b-8c33-1aa36b2e4d37/page/p_b31g9dy1ld
 
 This dashboard provides a comprehensive overview of key performance indicators (KPIs) and detailed insights into e-commerce performance. It tracks critical metrics across multiple 
  sections, including:
@@ -364,22 +364,6 @@ Based on the insights from GA4, BigQuery, and Microsoft Clarity, I recommended t
             
      XX)  Enhance Retention Strategies: Implement a loyalty program, send personalized
       follow-up emails, and offer incentives for repeat purchases to boost customer retention.
-
-
-## Phase 6: Creating a Looker Studio Dashboard to Track Key Metrics :
-
-To help monitor and visualize the performance of TrendyStyle's e-commerce growth, a Looker Studio dashboard can be set up 
-to track key metrics. Here's how to structure the dashboard and the metrics to include:
-
-#### Overall Performance Metric Dashboard Screenshot:
-
-![Overview Dashboard](https://github.com/user-attachments/assets/d65e68b7-3bce-43de-a199-0a651a7cb24e)
-
-
-#### Device Metric Dashboard Screenshot:
-
-![Device Analysis](https://github.com/user-attachments/assets/23f1b2e0-677a-4b1d-96b5-24fe0a75eedf)
-
 
 
 ## Results & Impact:

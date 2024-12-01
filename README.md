@@ -215,7 +215,7 @@ guiding targeted optimization efforts.
             Invest in organic and referral channels to scale revenue and leverage their strong performance.
 
            
-## Phase 4: Looker Studio Dashboard for E-commerce Performance Analysis:
+## Phase 3: Looker Studio Dashboard for E-commerce Performance Analysis:
 
 Dashboard Links: https://lookerstudio.google.com/reporting/bddf0090-1935-4e3b-8c33-1aa36b2e4d37/page/p_b31g9dy1ld
 
@@ -245,6 +245,10 @@ This dashboard provides a comprehensive overview of key performance indicators (
 
 This dashboard serves as a vital tool for monitoring, analyzing, and optimizing the conversion rate, 
 offering actionable insights for driving business growth.
+
+## Phase 4: User Behaviour Analysis Using Microsoft Clarity:
+
+I am setting up Microsoft Clarity on your website to analyze user behavior, identifying key interactions and pain points. Insights from the analysis help optimize the user experience, reduce friction, and improve conversion rates.
 
 1. Homepage Check:
 

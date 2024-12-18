@@ -4,7 +4,7 @@
 
 ### Industry: E-commerce (Fashion & Apparel)
 
-## Project Focus:
+## Project Goals:
 
 The goal of this project was to enhance ecommerce website conversion rate by analyzing customer behavior, identifying drop-off points, 
 and implementing data-driven solutions to improve the user experience and boost sales.
@@ -25,15 +25,41 @@ and implementing data-driven solutions to improve the user experience and boost 
 The project will begin with data integration and analysis to identify key user behavior insights. Based on these insights,
 I’ll implement targeted optimization strategies to enhance conversions and overall website performance.
 
+## Phase 1: Website CRO Audit:
 
-## Phase 1: Data Collection & Setup (Integrate GA4 & BigQuery):
+        Technical Audit: The technical audit will evaluate site speed, mobile responsiveness, broken links, SEO elements,
+        SSL security, redirects, and canonical tag implementation to ensure optimal functionality and search engine performance.
+         
+        Audit Homepage: Evaluate if the homepage effectively communicates the brand's value proposition, 
+        has a clear call-to-action (CTA), provides easy navigation, and loads quickly (performance check).
+        
+        Audit Collection Page: Assess the product display, filtering options, ease of navigation, page speed, 
+        and SEO optimization (meta tags, URL structure, schema markup).
+        
+        Audit Product Page: Check for clear and detailed product descriptions, high-quality images, visible CTAs
+        (e.g., Add to Cart), a streamlined purchase path, and relevant upsell/cross-sell options.
+        
+        Audit Cart Page: Ensure the cart displays accurate details of items, allows easy editing (quantity/size),
+        provides a transparent order summary, and includes a clear CTA to proceed to checkout.
+        
+        Audit Checkout Page: Review the checkout process for simplicity, support for multiple payment methods, 
+        mobile responsiveness, and trust signals such as secure payment icons, customer support, and progress indicators.
+        
+        Audit Thank You Page: Confirm that the Thank You page provides order confirmation, next steps (e.g., tracking info),
+        and post-purchase opportunities (e.g., sharing on social media or a discount for future purchases).
+
+#### Provide Detail Report in Google Sheet Link Below. See The Full Audit Report
+https://docs.google.com/spreadsheets/d/1WPq8dHXCDmPYMA_rhpLMHU23zDjHG14nuN6AMwdsvEo/edit?gid=906872785#gid=906872785
+
+
+## Phase 2: Data Collection & Setup (Integrate GA4 & BigQuery):
 
     1. Configured Google Analytics 4 (GA4) to export data to BigQuery, enabling more detailed and granular analysis.
     
     2. Set up automated queries to track product views, add-to-cart events, revenue, and user demographics to gather insights across different user segments.
 
     
-## Phase 2: Data Analysis & Insights:
+## Phase 3: Data Analysis & Insights:
 
 SQL Code Link Detail- https://github.com/mdrakibhasanrc/GA4-BigQuery-SQL-Data-Analysis-Report
 
@@ -215,7 +241,7 @@ guiding targeted optimization efforts.
             Invest in organic and referral channels to scale revenue and leverage their strong performance.
 
            
-## Phase 3: Looker Studio Dashboard for E-commerce Performance Analysis:
+## Phase 4: Looker Studio Dashboard for E-commerce Performance Analysis:
 
 Dashboard Links: https://lookerstudio.google.com/reporting/bddf0090-1935-4e3b-8c33-1aa36b2e4d37/page/p_b31g9dy1ld
 
@@ -246,7 +272,7 @@ This dashboard provides a comprehensive overview of key performance indicators (
 This dashboard serves as a vital tool for monitoring, analyzing, and optimizing the conversion rate, 
 offering actionable insights for driving business growth.
 
-## Phase 4: User Behaviour Analysis Using Microsoft Clarity:
+## Phase 5: User Behaviour Analysis Using Hotjar:
 
 I am setting up Microsoft Clarity on your website to analyze user behavior, identifying key interactions and pain points. Insights from the analysis help optimize the user experience, reduce friction, and improve conversion rates.
 
@@ -370,7 +396,7 @@ Based on the insights from GA4, BigQuery, and Microsoft Clarity, I recommended t
       follow-up emails, and offer incentives for repeat purchases to boost customer retention.
 
 
-## Results & Impact:
+## After Implementation  Results & Impact:
 
     Cart Abandonment Rate: Reduced by 50% through optimized CTAs and checkout simplification.
     

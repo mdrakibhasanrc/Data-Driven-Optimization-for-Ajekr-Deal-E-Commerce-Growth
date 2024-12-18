@@ -17,7 +17,7 @@ and implementing data-driven solutions to improve the user experience and boost 
     
     3. Looker Studio: For creating visual reports and real-time dashboards to track KPIs.
     
-    4. Microsoft Clarity: For heatmaps and session recordings to understand user behavior and friction points.
+    4. HotJar: For heatmaps and session recordings to understand user behavior and friction points.
 
 
 ## Project Phases & Approach:
@@ -26,26 +26,34 @@ The project will begin with data integration and analysis to identify key user b
 I’ll implement targeted optimization strategies to enhance conversions and overall website performance.
 
 ## Phase 1: Website CRO Audit:
+I will begin by defining the business goals to ensure the website audit aligns with key objectives such as increasing conversions or improving user experience. Following this, I will audit the main pages of the website, including the homepage, collection page, product page, cart page, checkout page, and the Thank You page, to identify areas for improvement.
 
-        Technical Audit: The technical audit will evaluate site speed, mobile responsiveness, broken links, SEO elements,
+        Technical Audit: 
+        The technical audit will evaluate site speed, mobile responsiveness, broken links, SEO elements,
         SSL security, redirects, and canonical tag implementation to ensure optimal functionality and search engine performance.
          
-        Audit Homepage: Evaluate if the homepage effectively communicates the brand's value proposition, 
+        Audit Homepage: 
+        Evaluate if the homepage effectively communicates the brand's value proposition, 
         has a clear call-to-action (CTA), provides easy navigation, and loads quickly (performance check).
         
-        Audit Collection Page: Assess the product display, filtering options, ease of navigation, page speed, 
+        Audit Collection Page: 
+        Assess the product display, filtering options, ease of navigation, page speed, 
         and SEO optimization (meta tags, URL structure, schema markup).
         
-        Audit Product Page: Check for clear and detailed product descriptions, high-quality images, visible CTAs
+        Audit Product Page: 
+        Check for clear and detailed product descriptions, high-quality images, visible CTAs
         (e.g., Add to Cart), a streamlined purchase path, and relevant upsell/cross-sell options.
         
-        Audit Cart Page: Ensure the cart displays accurate details of items, allows easy editing (quantity/size),
+        Audit Cart Page: 
+        Ensure the cart displays accurate details of items, allows easy editing (quantity/size),
         provides a transparent order summary, and includes a clear CTA to proceed to checkout.
         
-        Audit Checkout Page: Review the checkout process for simplicity, support for multiple payment methods, 
+        Audit Checkout Page:
+        Review the checkout process for simplicity, support for multiple payment methods, 
         mobile responsiveness, and trust signals such as secure payment icons, customer support, and progress indicators.
         
-        Audit Thank You Page: Confirm that the Thank You page provides order confirmation, next steps (e.g., tracking info),
+        Audit Thank You Page: 
+        Confirm that the Thank You page provides order confirmation, next steps (e.g., tracking info),
         and post-purchase opportunities (e.g., sharing on social media or a discount for future purchases).
 
 #### Provide Detail Report in Google Sheet Link Below. See The Full Audit Report
